@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @webobscure
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @webobscure.
+- 👀 I’m interested in SPA,Web applications.
+- 🌱 I’m currently learning React,Typescript.
+- 💞️ I’m looking to collaborate on cool projects.
+- 📫 How to reach me obscurium@icloud.com.
 
 <!---
 webobscure/webobscure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
