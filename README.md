@@ -1,4 +1,4 @@
-- 👋 Привет, я Александр Гиновян.
+- 👋 Hey, I'm Alex Ginovyan.
 - 👀 I’m interested in SPA,Web applications.
 - 🌱 I’m currently learning React, Redux, Typescript.
 - 💞️ I’m looking to collaborate with your company.
