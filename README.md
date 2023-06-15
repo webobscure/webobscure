@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there.I'm Alex</h1>
-  <h3> Frontend Developer from Saint-Petersburg</h3>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=78&lines=React+Frontend+developer+from+Saint+-+Petersburg)](https://git.io/typing-svg)
 </div>
 
 
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=78&lines=React+Frontend+developer+from+Saint+-+Petersburg)](https://git.io/typing-svg)
+
 
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
