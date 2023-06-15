@@ -20,7 +20,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webobscure)](https://github.com/webobscure/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webobscure&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webobscure&theme=github_dark)
 
