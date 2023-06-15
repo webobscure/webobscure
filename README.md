@@ -8,13 +8,9 @@
   <a href="https://www.linkedin.com/mwlite/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2%D1%8F%D0%BD-0714a4247">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://t.me/webobscure">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="30px" height="30px">
-    Telegram
-  </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=78&lines=Really+cool+guy;Whom+makes+this+world+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=78&lines=React+Frontend+developer)](https://git.io/typing-svg)
 
 
 <!-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
