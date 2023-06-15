@@ -27,6 +27,6 @@
 
   [![Webobscure GitHub stats](https://github-readme-stats.vercel.app/api?username=webobscure&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
 
+![github-user-contribution](https://github.com/webobscure/webobscure/assets/50839940/9bed5d6e-a038-4d87-9c05-8a339caffa2e)
 
-![github-user-contribution](https://user-images.githubusercontent.com/73172033/220138936-2fbd3879-6482-40d1-852d-7f3357f8686d.svg)
 
