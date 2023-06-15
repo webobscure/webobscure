@@ -20,13 +20,12 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webobscure)](https://github.com/webobscure/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=webobscure&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=webobscure&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webobscure&theme=github_dark)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webobscure&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
+  [![Webobscure GitHub stats](https://github-readme-stats.vercel.app/api?username=webobscure&theme=transparent&show_icons=true)](https://github.com/StAl15/github-readme-stats)
 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/73172033/220138936-2fbd3879-6482-40d1-852d-7f3357f8686d.svg)
