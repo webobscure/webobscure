@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://t.me/webobscure">
-    <img src="https://simpleicons.org/icons/telegram.svg">
+    <img src="https://simpleicons.org/icons/telegram.svg" width="30px" height="30px">
+    Telegram
   </a>
 </div>
 
