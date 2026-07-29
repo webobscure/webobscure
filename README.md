@@ -11,7 +11,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Frontend-leaning full-stack developer in Saint Petersburg.<br>
+> Frontend-leaning full-stack developer in Berlin.<br>
 > I turn practical product ideas into focused, maintainable software.
 
 Right now I am building [Curekey](https://github.com/webobscure/curekey), a local-first desktop<br>
