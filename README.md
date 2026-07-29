@@ -46,16 +46,3 @@ PostgreSQL and TMDB, with personal ratings, notes and watch progress.
 <img src="./year.svg" width="620" alt="The last year of GitHub contributions, one character per day"/>
 
 </div>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-Every graphic on this page is stored in this repository. The portrait is<br>
-generated from the profile photo by [`generate_ascii_portrait.py`](scripts/generate_ascii_portrait.py);<br>
-the stat graphics are drawn directly from the GitHub GraphQL API by<br>
-[a scheduled action](.github/workflows/stats.yml), once a day and only committed when changed.
-
-The SVGs animate with SMIL and carry a small inlined subset of<br>
-[JetBrains Mono](scripts/fonts), so the page has no third-party widget requests<br>
-and keeps the same character geometry across platforms.
-
-Built from [Andrii Drok's self-generating profile guide](https://agreeable-credit-859.notion.site/A-GitHub-profile-that-generates-itself-3abedfe9a65a81e4afc9daed90cb4e7e).
