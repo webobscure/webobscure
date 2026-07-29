@@ -27,10 +27,10 @@ def crop_portrait(image):
     """Use the face-and-torso area of the current square GitHub avatar."""
     width, height = image.size
     box = (
-        round(width * 0.22),
-        round(height * 0.03),
-        round(width * 0.78),
-        round(height * 0.72),
+        round(width * 0.27),
+        round(height * 0.27),
+        round(width * 0.73),
+        round(height * 0.80),
     )
     return image.crop(box)
 
@@ -57,7 +57,11 @@ def fallback_cutout(image):
             # The current avatar's siding is mint/green. This removes it while
             # leaving skin, hair, clothes and the dark camera strap intact.
             chroma_green = green - max(red, blue)
-            background = chroma_green > 2 and green > 60
+            chroma_blue = blue - max(red, green)
+            background = (
+                (chroma_green > 2 and green > 60)
+                or (chroma_blue > 8 and blue > 70)
+            )
 
             nx = (x - width * 0.50) / (width * 0.47)
             ny = (y - height * 0.48) / (height * 0.55)
@@ -87,7 +91,9 @@ def prepare(image, columns):
     image = ImageEnhance.Contrast(image).enhance(1.18)
 
     # Darken mid-tones so small facial features survive the character mapping.
-    image = image.point(lambda value: round(255 * ((value / 255) ** 1.35)))
+    image = image.point(
+        lambda value: round(20 + 235 * ((value / 255) ** 1.20))
+    )
     return image
 
 
